@@ -1,0 +1,23 @@
+# Dataset
+food-101-20/
+
+# Gradio
+.gradio/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+models/*.pth
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
